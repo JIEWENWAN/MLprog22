@@ -1,4 +1,5 @@
 0520 MLprog22
 Naoki Mori
 Riku Higashimura
-Yuya Kanbetsunawa
+Kaoru Ito
+Jiewen Wang
